@@ -1,0 +1,15 @@
+Hi Arpit,
+
+Below is the requirement of new independent project for which client friend approached me in March and I declined that as I was short of Resource and time.
+It's a mid complex project and has lot of open point where in we need to keep system open with the capability to restrict the open point to certain range later on.
+
+PFA attached is the document what I have received.
+------------------------------------------------------------------------------------------------------------
+
+As discussed, attached are a few files which lay out a brief of what we are looking for in the software we want to build for AGOS. To give you an idea of what AGOS does, we provide Loadmasters to various airlines. We have bases at Bombay(BOM), Delhi(DEL) and Dubai(DXB). A loadmaster plans the weight and balance of a cargo aircraft and is considered as part of the crew. From our bases in BOM and DEL we cover flights at these 2 airports as well as other airports in India, Bangladesh and Sri Lanka. From our base in DXB, we cover flights across the globe where our Loadmaster gets on board the aircraft and provides support downroute to whichever airport needs coverage.
+ 
+We are looking at something like a vertical calendar, where fights as offered are entered in a particular format and a Loamdaster is then assisgned to the flight. Every airline should have a different color code. The Loadasmters should also have different colors. Once a Loadmaster is assigned to the flight a notification to the Loadmaster should be sent. Once he accepts the flight, it should move on a horizontal calender(Flow Chart). I have attached a flow charter used by one of our client airlines. The difference between what we want and they have is that they are tracking their aircraft movements and we would want to track our Loadmaster movements. So we will need our Loadmaster name instead of aircraft registration on the extreme left of the screen. 
+ 
+Details of what we want are mentioned in the vertical file. We will also need it to be linked to company finances as mentioned in the sheet.
+ 
+You can call me if you need any clarification. I would also suggest a meeting for you understand better.
